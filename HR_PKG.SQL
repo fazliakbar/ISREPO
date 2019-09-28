@@ -1,7 +1,5 @@
-declare 
-isFound Number;
 BEGIN
-  Select 1 from dual;
+  NULL;
   Exception When Others Then
   Null;
 END;  
