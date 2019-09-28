@@ -1,5 +1,7 @@
+declare 
+isFound Number;
 BEGIN
-  NULL;
+  Select 1 from dual;
   Exception When Others Then
   Null;
 END;  
